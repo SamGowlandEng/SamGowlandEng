@@ -9,6 +9,8 @@ I have recently studied for a BEng Honours degree in Electrical Electronics Engi
 * 🌍  I'm based in Durham, United Kingdom
 * 🧠  I'm learning Networks and security , Java Script , Html, CSS and Python. As well as HCI
 * 🤝  I'm open to collaborating on Interesting Projects with real world benefits
+* 💻  BEng Electrical Electronics Engineering  2018-2022
+* 💻  MSc Advanced Computer Science  2022-2023
 
 <a href="https://www.twitter.com/SamGowlandEng" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SamGowlandEng?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
