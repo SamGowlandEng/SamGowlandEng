@@ -6,7 +6,7 @@ PhD Researcher · Human-Computer Interaction & Animal-Computer Interaction
 
 I am a PhD researcher in the Department of Computer and Information Sciences at Northumbria University, specialising in Human-Computer Interaction (HCI) and Animal-Computer Interaction (ACI). My research focuses on AI bias in wildlife representation, conservation communication, and the design of technology for and with animals.
 
-Previously I completed a BEng Honours in Electrical & Electronic Engineering, with a final year project designing a smart pill dispenser for people with cognitive impairment, and an MSc in Advanced Computer Science. My engineering background informs an interdisciplinary approach that bridges HCI with sensor technology, wearables, and AI systems for real-world benefit.
+Previously I completed a BEng Honours in Electrical & Electronic Engineering, with a final year project designing a smart pill dispenser for people with cognitive impairment, and an MSc in Computer Science. My engineering background informs an interdisciplinary approach that bridges HCI with sensor technology, wearables, and AI systems for real-world benefit.
 
 🏆 Best Paper Award — ACI 2025 Conference, Bloomington, Indiana
 
