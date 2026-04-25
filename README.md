@@ -1,21 +1,25 @@
 Hi 👋 My name is Sam Gowland
 ============================
 
-Electronics Engineer \[IoT Dev\]
---------------------------------
+PhD Researcher · Human-Computer Interaction & Animal-Computer Interaction
+--------------------------------------------------------------------------
 
-I have recently studied for a BEng Honours degree in Electrical Electronics Engineering. My final project was a smart pill dispenser designed for those with cognitive impairment. Currently studying for an MSc in Advanced Computer Science. My aim is to design smart systems with the goal of implementing them into the healthcare system to help ease impairments and disabilities and allow for more self-sufficiency, giving back some dignity that is often lost.
+I am a PhD researcher in the Department of Computer and Information Sciences at Northumbria University, specialising in Human-Computer Interaction (HCI) and Animal-Computer Interaction (ACI). My research focuses on AI bias in wildlife representation, conservation communication, and the design of technology for and with animals.
 
-* 🌍  I'm based in Durham, United Kingdom
-* 🤝  I'm open to collaborating on Interesting Projects with real world benefits
-* 💻  BEng Electrical Electronic Engineering  2018-2022
-* 💻  MSc Computer Science  2022-2023
-* 💻  PhD Computer Science [Currently Study]
+Previously I completed a BEng Honours in Electrical & Electronic Engineering, with a final year project designing a smart pill dispenser for people with cognitive impairment, and an MSc in Advanced Computer Science. My engineering background informs an interdisciplinary approach — bridging HCI with sensor technology, wearables, and AI systems for real-world benefit.
 
-<a href="https://www.twitter.com/SamGowlandEng" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/SamGowlandEng?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/SamGowlandEng" target="_blank" rel="noreferrer"><img
+🏆 Best Paper Award — ACI 2025 Conference, Bloomington, Indiana
+
+* 🌍  Based in Durham, United Kingdom
+* 🔬  PhD Computer Science — Human-Computer Interaction & Animal-Computer Interaction
+* 💻  MSc Advanced Computer Science — 2022–2023
+* 💻  BEng Electrical & Electronic Engineering — 2018–2022
+* 🤝  Open to collaborating on projects with real-world impact
+
+<a href="https://www.github.com/SamGowlandEng" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SamGowlandEng?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+---
 
 ### Skills
 
@@ -28,10 +32,18 @@ src="https://img.shields.io/github/followers/SamGowlandEng?logo=github&style=for
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
+---
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Disguised Bear (Samiex)#4620" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/SamGowlandEng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/SamGowlandEng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sam-gowland/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SamGowlandEng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://discord.com/users/Samiex" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/SamGowlandEng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/sam-gowland/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://scholar.google.co.uk/citations?user=jboBB0kAAAAJ&hl=en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="32" height="32" /></a>
+</p>
+
+---
 
 ### Badges
 
